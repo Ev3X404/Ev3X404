@@ -6,10 +6,13 @@ Front-end
 
 "You can call me Eve. Currently, I work as a T-shirt designer for a company in Roi-Et. However, I have a strong desire to work in the field of Web Development. I started by taking online courses and cloning websites. I aspire to start working to gain experience in this field."
 
-* 🌍  I'm based in Roi-et, Mahasakham, Khon-kaen
+
+*  🌍  I'm based in Roi-et, Mahasakham, Khon-kaen
+*  🎓  Vocational Certificate Computer Business.
+*  📖  Currently studying : Higher Vocational Certificate Computer Business.
 *  🧠  I'm learning React
-* ✉️  You can contact me at [aprilwednesday31@gmail.com](mailto:aprilwednesday31@gmail.com)
-* 📞 082-132-8777
+*  ✉️  You can contact me at [aprilwednesday31@gmail.com](mailto:aprilwednesday31@gmail.com)
+*  📞 082-132-8777
 
 <a href="https://www.github.com/Ev3X404" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Ev3X404?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
