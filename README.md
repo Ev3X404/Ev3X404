@@ -32,8 +32,7 @@ src="https://img.shields.io/github/followers/Ev3X404?logo=github&style=for-the-b
 
 ### My Idol
 
-![Uploading 9arm-armzi.gif…]()
-
+![9arm-armzi](https://github.com/Ev3X404/Ev3X404/assets/144092831/2afae591-75bb-4c9a-b43a-5acb5dee6788)
 
 ### Badges
 
